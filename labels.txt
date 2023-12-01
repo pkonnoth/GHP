@@ -1,0 +1,4 @@
+0 Plastic
+1 Aluminium
+2 Cardboard
+3 Mixed paper
